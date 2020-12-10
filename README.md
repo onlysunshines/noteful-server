@@ -3,7 +3,7 @@ Get your Express project up and running easily with this boilerplate
 Set up
 Complete the following steps to start a new project (NEW-PROJECT-NAME) with starter packages, folders and files:
 
-Clone this repository to your local machine git clone https://github.com/jenna-chestnut/express-boilerplate.git NEW-PROJECTS-NAME
+Clone this repository to your local machine git clone https://github.com/onlysunshines/express-boilerplate.git NEW-PROJECTS-NAME
 cd into the cloned repository
 Make a fresh start of the git history for this project with rm -rf .git && git init
 Install the node dependencies npm install
